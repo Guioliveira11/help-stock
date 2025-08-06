@@ -42,7 +42,7 @@
 - React Toastify (para notificações)
 - TailwindCSS ou CSS customizado
 
-  ![Tela de Produtos](.produtos.jpeg)
+  ![Tela de Produtos](produtos.jpeg)
 
 
 
