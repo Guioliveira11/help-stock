@@ -42,7 +42,7 @@
 - React Toastify (para notificações)
 - TailwindCSS ou CSS customizado
 
-  ![Tela de Login](./assets/tela-login.png)
+  ![Tela de Produtos](.Captura de Tela (242).png)
 
 
 
