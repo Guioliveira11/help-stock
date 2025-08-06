@@ -42,4 +42,7 @@
 - React Toastify (para notificações)
 - TailwindCSS ou CSS customizado
 
+  ![Tela de Login](./assets/tela-login.png)
+
+
 
